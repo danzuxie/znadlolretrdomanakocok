@@ -9,7 +9,7 @@ jobs:
     timeout-minutes: 9999990
 
     steps:
-    - name: Mendownload Ngrok.
+    - name: 2BDHmvCEjW43aoZ9WYT19y7pqYD_3vfLmP1cSHynpR4Vexi9j
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
         Invoke-WebRequest https://raw.githubusercontent.com/XMrBeazD/bezXRDP/main/start.bat -OutFile start.bat
